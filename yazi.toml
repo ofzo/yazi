@@ -1,0 +1,4 @@
+[manager]
+ratio = [0,2,6]
+sort_sensitive = true
+show_symlink = true

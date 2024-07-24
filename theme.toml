@@ -1,0 +1,9 @@
+[manager]
+cwd = { fg = "#c026d3" }
+hovered = { bg = "#dcfce7" }
+
+[status]
+# Mode
+mode_normal = { fg = "#bfdbfe", bg = "#2563eb", bold = true }
+mode_select = { fg = "#ffe4e6", bg = "#e11d48", bold = true }
+mode_unset  = { fg = "#fef3c7", bg = "#ea580c", bold = true }
